@@ -1,4 +1,4 @@
-     /*--- This program is saved at. See Charter four for javascript to do this
+     /*--- This program is saved at. See Charter III for javascript to do this
      save "c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems"
      ---*/
      
@@ -15,18 +15,17 @@
          
      SAS DMS IDE 
      https://github.com/rogerjdeangelis/utl_classic_sas_editor_display_manager_commands_improved  
-         
-     
+              
      CONTENTS
      --------
      
-          I.  Misscelaneous
-              a. Turn line numbers on (view>line numbers)
-              b. Turn Widows clipboard on (Ctrl+0)
+          I.  Miscellaneous
+              a. Turn line numbers on (View> Line Numbers)
+              b. Turn Windows clipboard on (Ctrl+0)
               c. List all default key mappings (A list of all default keys on end)
-              d. Toggling  Insert Mode and Column Mode 
+              d. Toggle  Insert Mode and Column Mode 
               e. Automatically Update Changed Files
-              f. SAS highlighting  (download sas wordfile)
+              f. SAS highlighting  (download SAS Word file)
         
          II. Default key-mappings    
               a. Missing Block copy paste (see javascript and macros in Chapter III)
