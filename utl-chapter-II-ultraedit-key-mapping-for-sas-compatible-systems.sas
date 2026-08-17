@@ -4,6 +4,9 @@ save "c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems"
 
 Chapter II UltraEdit key mapping for SAS-compatible systems
 
+Note:  C:\slc\current.lst, c:\slc\current.sas, and  c:\slc\current.log are a sandbox.
+When you want save production code. Press Ctrl+Alt+2 to save your program to the path in line 2 of the editor.
+
 Too long to post, see github
 https://github.com/rogerjdeangelis/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems
 
