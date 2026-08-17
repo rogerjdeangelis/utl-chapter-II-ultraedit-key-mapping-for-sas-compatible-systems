@@ -107,11 +107,10 @@ CONTENTS
 
  II. DEFAULT KEY-MAPPINGS https://wiki.ultraedit.com/Keyboard_shortcuts
  
-    a. UltraEdit does not support copy and paste the bock of lines at a new cursor position
-       The next repository provides a javascript solution using ctrl+Alt+V
-
-    b. Default Key Mappings
-    
+    a. Default Key Mappings
+        0  Move/Overlay a block of text. Set Column mode. 
+           Position cursor. Hold Shift+Alt highlight block. Ctrl-C place cursor then Ctrl+V  
+           This is like the normal Alt Highlight, except you need to press Alt+Shift hotkey.
         1  Ctrl+C Copy, Ctrl+V Paste, Ctrl+X Cut, Ctrl+Z Undo, Ctrl+Y redo
         2  Shift Mouse Wheel Shifts Text left aand right
         3  Ctrl+A Space     Clear any window
