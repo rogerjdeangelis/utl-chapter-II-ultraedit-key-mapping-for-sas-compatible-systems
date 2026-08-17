@@ -111,9 +111,9 @@
             The next repository provides a javascript solution using ctrl+Alt+V
      
          b. Default Key Mappings
-         
+             0  Move block of text. Hold Shift+Alt highlight Ctrl-C place cursor Ctrl+V (substitue Shift+Alt for Alt) 
              1  Ctrl+C Copy, Ctrl+V Paste, Ctrl+X Cut, Ctrl+Z Undo, Ctrl+Y redo
-             2  Shift Mouse Wheel Shifts Text left aand right
+             2  Shift Mouse Wheel Shifts Text left and right
              3  Ctrl+A Space     Clear any window
              4  Ctrl+S           Save  
              5  F12              save as
