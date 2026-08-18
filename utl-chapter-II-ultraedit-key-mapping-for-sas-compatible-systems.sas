@@ -1,5 +1,5 @@
 /*--- This program is saved at. Charter III will have macros and JavaScript tools
-save "c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems"
+c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems.sas
 ---*/
 
 Chapter II UltraEdit key mapping for SAS-compatible systems
