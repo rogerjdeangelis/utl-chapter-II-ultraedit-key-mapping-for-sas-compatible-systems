@@ -72,14 +72,17 @@ CONTENTS
     
        Note the C0 below c:\slc\current.sas (c1-c9 are ultraedit clipboards and do not allow copy/paste
        outside ultraedit)
-      
-       /**********************************************************************************/
-       /*  C:\slc\current.lst   |   c:\slc\current.sas  |  c:\slc\current.log            */
-       /*                       |                       |                                */
-       /* ..                    |                       |                                */
-       /**********************************************************************************/
-                                ln1,col1,C0 DOS utf-8
-                                         ==
+     
+      Note the Quick Find Dock Ctrl+F     
+            
+      Sandbox 
+      /****************************************************************************************/  
+      /* C:\slc\current.lst | c:\slc\current.sas | c:\slc\current.log  Find[        ] v ^     */  
+      /*                    |                    |                                            */  
+      /* ..                 |                    |                                            */  
+      /****************************************************************************************/  
+                                     ln1,col1,C0 DOS utf-8
+     
     c.  List all default hotkeys
     
         Advanced > Settings > Key Mappings > Show Key Mappings in editor (also at the end of this repository)
