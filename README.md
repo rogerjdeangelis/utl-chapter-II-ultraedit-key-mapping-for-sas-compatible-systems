@@ -45,23 +45,7 @@
               g. Comment a Block of SAS Code (Ctrl+Alt+,)
               
          IV.  List of Key Mappings 
-         
-      
-      SOAPBOX ON
-        UltraEdit Version 2025.1.0.31 64-bit
-        
-        The top ribbon must look like this for this documentation (this is the contemporary menu (not the traditional menu))
-         
-            File  Home  EDIT  Format  View  Coding  Project  Layout  Window  Advanced 
-            
-          A Command line has two major advantages.
-          
-          1.  The interface may change, but the commands do not (legacy support)
-          2.  With command macros like in SAS, if you want to clear the program, just type clear or clr on the command lne.
-              This makes it easy to remember commands
-       SOAPBOX OFF
-      
-      
+    
       I. MISELANEOUS
      
          a. Turn line numbers on
@@ -117,7 +101,7 @@
          a. UltraEdit does not support copy and paste the bock of lines at a new cursor position
             The next repository provides a javascript solution using ctrl+Alt+V
      
-         b. Default Key Mappings
+         b. Default Key Mappings (see chapter IV for expanded list)
              0  Move/Overlay a block of text. Set Column mode (especially if copying, inserting, overwriting, or pasting blocks of text). 
              1  Ctrl+C Copy, Ctrl+V Paste, Ctrl+X Cut, Ctrl+Z Undo, Ctrl+Y redo
              2  Shift Mouse Wheel Shifts Text left and right
