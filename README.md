@@ -1,5 +1,5 @@
      /*--- This program is saved at. See Charter III for javascript to do this
-     save "c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems"
+     c:/utl/utl-chapter-II-ultraedit-key-mapping-for-sas-compatible-systems.sas
      ---*/
      
      Chapter II ultraedit key mapping for sas compatible systems
