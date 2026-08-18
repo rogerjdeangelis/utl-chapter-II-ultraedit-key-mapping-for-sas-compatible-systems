@@ -113,7 +113,7 @@ CONTENTS
 
  II. DEFAULT KEY-MAPPINGS https://wiki.ultraedit.com/Keyboard_shortcuts
  
-    a. Default Key Mappings
+    a. Default Key Mappings (expanded list in chapter in Chapter III and IV)
         0  Move/Overlay a block of text. Set Column mode (especially if copying, inserting, overwriting, or pasting blocks of text). 
            Position cursor. Hold Shift+Alt highlight block. Ctrl-C place cursor then Ctrl+V  
            This is like the normal Alt Highlight, except you need to press Alt+Shift hotkey.
